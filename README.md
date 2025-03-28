@@ -27,5 +27,4 @@ Un reloj web revolucionario que combina:
 ### Pasos:
 1. Clonar repositorio:
 ```bash
-git clone https://github.com/tu-usuario/reloj-cuantico.git
-cd reloj-cuantico
+git clone [https://github.com/GuidoCJH/reloj.git]
